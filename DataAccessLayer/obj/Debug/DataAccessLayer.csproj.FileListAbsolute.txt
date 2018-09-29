@@ -1,0 +1,9 @@
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.xml
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
