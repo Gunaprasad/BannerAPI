@@ -1,0 +1,11 @@
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.xml
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\gshgqr\Desktop\Rest API Demo\WebApplication2\BusinessLayer\obj\Debug\BusinessLayer.pdb
